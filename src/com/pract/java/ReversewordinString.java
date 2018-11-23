@@ -5,7 +5,7 @@ public class ReversewordinString {
 	
 	public static void main(String[] args) {
 		
-		String str = " Today is my day";
+		String str = "Today is my day";
 		
 		String  rev = reverse(str);
 		

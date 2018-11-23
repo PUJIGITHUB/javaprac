@@ -23,7 +23,7 @@ public class Dulic {
 				mapvalue.put(key, 1);  
 			} 
 		}
-		//System.out.println(mapvalue);
+		
 
 		for (Map.Entry<Integer,Integer> entry : mapvalue.entrySet())  {
 			if(entry.getValue()>1){

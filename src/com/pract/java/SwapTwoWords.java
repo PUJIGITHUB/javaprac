@@ -23,7 +23,7 @@ public class SwapTwoWords {
 			if(strArray[i].equals("is") ) {
 
 				res[i] = "day";
-			}
+			}	 
 			else if(strArray[i].equals("day")) {
 
 				res[i] = "is";

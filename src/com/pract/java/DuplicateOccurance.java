@@ -32,6 +32,11 @@ public class DuplicateOccurance {
 	}	
 	}
 	System.out.println(mapvalue);
+	               
+	    } 
+	  
+	    }
+
 		
-	}
-}
+	
+
